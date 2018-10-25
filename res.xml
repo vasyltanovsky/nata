@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2018-09-28 22:58">
+<shop>
+<name>MyZi</name>
+<company>MyZi</company>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories><category id="1">Мужская одежда</category>
+<category id="2" parentId="1">Мужская джинсовая одежда</category>
+<category id="3" parentId="2">Мужские джинсы</category>
+<category id="4" parentId="2">Мужские джинсовые куртки</category>
+<category id="5" parentId="1">Мужская спортивная одежда</category>
+<category id="6" parentId="5">Мужские спортивные штаны</category>
+<category id="7" parentId="5">Мужские спортивные костюмы</category>
+<category id="8" parentId="5">Мужские спортивные кофты</category>
+<category id="9" parentId="5">Мужские рашгарды</category>
+<category id="10" parentId="5">Мужские тайтсы</category>
+<category id="11" parentId="5">Мужские леггинсы</category>
+<category id="12" parentId="5">Мужские лосины</category>
+<category id="13" parentId="5">Мужские велосипедки</category>
+<category id="14" parentId="1">Мужские рубашки, футболки и майки</category>
+<category id="15" parentId="14">Мужские вышиванки</category>
+<category id="16" parentId="14">Мужские поло</category>
+<category id="17" parentId="14">Мужские рубашки</category>
+<category id="18" parentId="14">Мужские тенниски</category>
+<category id="19" parentId="14">Мужские футболки</category>
+<category id="20" parentId="14">Мужские майки</category>
+<category id="21" parentId="14">Мужские лонгсливы</category>
+<category id="22" parentId="1">Мужские чулочно-носочные изделия</category>
+<category id="23" parentId="22">Мужские гетры</category>
+<category id="24" parentId="22">Мужские носки</category>
+<category id="25" parentId="22">Мужские следы</category>
+<category id="26" parentId="1">Мужские брюки</category>
+<category id="27" parentId="26">Мужские брюки</category>
+<category id="28" parentId="26">Мужские багги</category>
+<category id="29" parentId="1">Мужские комбинезоны</category>
+<category id="30" parentId="29">Мужские комбинезоны</category>
+<category id="31" parentId="29">Мужские полукомбинезоны</category>
+<category id="32" parentId="1">Мужские кофты, свитера и кардиганы</category>
+<category id="33" parentId="32">Мужские гольфы (водолазки)</category>
+<category id="34" parentId="32">Мужские джемперы</category>
+<category id="35" parentId="32">Мужские кардиганы</category>
+<category id="36" parentId="32">Мужские кофты</category>
+<category id="37" parentId="32">Мужские пуловеры</category>
+<category id="38" parentId="32">Мужские регланы</category>
+<category id="39" parentId="32">Мужские свитера</category>
+<category id="40" parentId="32">Мужские свитшоты</category>
+<category id="41" parentId="32">Мужские толстовки</category>
+<category id="42" parentId="32">Мужские худи</category>
+<category id="43" parentId="1">Мужские костюмы и пиджаки</category>
+<category id="44" parentId="43">Мужские жакеты</category>
+<category id="45" parentId="43">Мужские костюмы</category>
+<category id="46" parentId="43">Мужские жилеты</category>
+<category id="47" parentId="43">Мужские смокинги</category>
+<category id="48" parentId="43">Мужские пиджаки</category>
+<category id="49" parentId="43">Мужские блейзеры</category>
+<category id="50" parentId="1">Мужская ночная и домашняя одежда</category>
+<category id="51" parentId="50">Мужские халаты</category>
+<category id="52" parentId="50">Мужские пижамы</category>
+<category id="53" parentId="50">Мужские ночные рубашки</category>
+<category id="54" parentId="1">Мужская верхняя одежда</category>
+<category id="55" parentId="54">Мужские куртки</category>
+<category id="56" parentId="54">Мужские бомберы</category>
+<category id="57" parentId="54">Мужские ветровки</category>
+<category id="58" parentId="54">Мужские демисезонные куртки</category>
+<category id="59" parentId="54">Мужские зимние куртки</category>
+<category id="60" parentId="54">Мужские кожаные куртки</category>
+<category id="61" parentId="54">Мужские косухи</category>
+<category id="62" parentId="54">Мужские парки</category>
+<category id="63" parentId="54">Мужские пуховики</category>
+<category id="64" parentId="54">Мужские жилеты</category>
+<category id="65" parentId="54">Мужские пальто</category>
+<category id="66" parentId="54">Мужские дафлкоты</category>
+<category id="67" parentId="54">Мужские дубленки</category>
+<category id="68" parentId="54">Мужские плащи</category>
+<category id="69" parentId="54">Мужские утепленные брюки</category>
+<category id="70">Женская одежда</category>
+<category id="71" parentId="70">Женская верхняя одежда</category>
+<category id="72" parentId="71">Женские</category>
+<category id="73" parentId="71">Женские бомберы</category>
+<category id="74" parentId="71">Женские ветровки</category>
+<category id="75" parentId="71">Женские зимние куртки</category>
+<category id="76" parentId="71">Женские кожаные куртки</category>
+<category id="77" parentId="71">Женские парки</category>
+<category id="78" parentId="71">Женские пуховики</category>
+<category id="79" parentId="71">Женские дубленки</category>
+<category id="80" parentId="71">Женские жилеты</category>
+<category id="81" parentId="71">Женские накидки</category>
+<category id="82" parentId="71">Женские пальто</category>
+<category id="83" parentId="71">Женские дафлкоты</category>
+<category id="84" parentId="71">Женские пелерины</category>
+<category id="85" parentId="71">Женские плащи</category>
+<category id="86" parentId="71">Женские полушубки</category>
+<category id="87" parentId="71">Женские пончо</category>
+<category id="88" parentId="71">Женские тренчи</category>
+<category id="89" parentId="71">Женские утепленные брюки</category>
+<category id="90" parentId="71">Женские шубы</category>
+<category id="91" parentId="70">Женская джинсовая одежда</category>
+<category id="92" parentId="91">Женские джеггинсы</category>
+<category id="93" parentId="91">Женские джинсы</category>
+<category id="94" parentId="91">Женские джинсовые куртки</category>
+<category id="95" parentId="70">Женская ночная и домашняя одежда</category>
+<category id="96" parentId="95">Женские домашние туники</category>
+<category id="97" parentId="95">Женские кигуруми</category>
+<category id="98" parentId="95">Женские пижамы</category>
+<category id="99" parentId="95">Женские халаты</category>
+<category id="100" parentId="95">Женские комплекты домашней одежды</category>
+<category id="101" parentId="95">Женские ночные рубашки</category>
+<category id="102" parentId="70">Женская спортивная одежда</category>
+<category id="103" parentId="102">Женские спортивные костюмы</category>
+<category id="104" parentId="102">Женские спортивные кофты</category>
+<category id="105" parentId="70">Женские блузы и рубашки</category>
+<category id="106" parentId="105">Женские блузы</category>
+<category id="107" parentId="105">Женские вышиванки</category>
+<category id="108" parentId="105">Женские рубашки</category>
+<category id="109" parentId="70">Женские брюки, шорты и лосины</category>
+<category id="110" parentId="109">Женские бермуды</category>
+<category id="111" parentId="109">Женские бриджи</category>
+<category id="112" parentId="109">Женские капри</category>
+<category id="113" parentId="109">Женские леггинсы</category>
+<category id="114" parentId="109">Женские лосины</category>
+<category id="115" parentId="109">Женские шорты</category>
+<category id="116" parentId="70">Женские комбинезоны и полукомбинезоны</category>
+<category id="117" parentId="116">Женские комбинезоны</category>
+<category id="118" parentId="116">Женские полукомбинезоны</category>
+<category id="119" parentId="70">Женские костюмы и жакеты</category>
+<category id="120" parentId="119">Женские костюмы</category>
+<category id="121" parentId="119">Женские блейзеры</category>
+<category id="122" parentId="119">Женские жакеты</category>
+<category id="123" parentId="70">Женские кофты, свитера и кардиганы</category>
+<category id="124" parentId="123">Женские гольфы (водолазки)</category>
+<category id="125" parentId="123">Женские джемперы</category>
+<category id="126" parentId="123">Женские кардиганы</category>
+<category id="127" parentId="123">Женские пуловеры</category>
+<category id="128" parentId="123">Женские свитера</category>
+<category id="129" parentId="123">Женские свитшоты</category>
+<category id="130" parentId="123">Женские толстовки</category>
+<category id="131" parentId="123">Женские худи</category>
+<category id="132" parentId="70">Женские платья, сарафаны и юбки</category>
+<category id="133" parentId="132">Женские платья</category>
+<category id="134" parentId="132">Женские сарафаны</category>
+<category id="135" parentId="132">Женские туники</category>
+<category id="136" parentId="132">Женские юбки</category>
+<category id="137" parentId="70">Женские футболки и майки</category>
+<category id="138" parentId="137">Женские майки</category>
+<category id="139" parentId="137">Женские поло</category>
+<category id="140" parentId="137">Женские топы</category>
+<category id="141" parentId="137">Женские футболки</category>
+<category id="142" parentId="137">Женские футболки с длинными рукавами</category>
+<category id="143" parentId="70">Женские чулочно-носочные изделия</category>
+<category id="144" parentId="143">Женские гетры</category>
+<category id="145" parentId="143">Женские гольфы</category>
+<category id="146" parentId="143">Женские колготки</category>
+<category id="147" parentId="143">Женские носки</category>
+<category id="148" parentId="143">Женские следы</category>
+<category id="149" parentId="143">Женские чулки</category>
+</categories><offers><offer id="5013" available="true">
+<price>2599</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джемпер COS M Серый 5013</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">M</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">81% хлопок, 17% полиамид, 2% эластан</param>
+<param name="Артикул">5013</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6b1162d678f60db21d96de3f8413be48.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/9153bfae895a529d02d7af161dc38952.jpg</picture>
+</offer><offer id="5046" available="true">
+<price>2599</price>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Платье COS 8 Голубой 5046</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платье COS</param>
+<param name="Размер">8</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские платья</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">100% ліоцел</param>
+<param name="Артикул">5046</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/8ad41a8fe536fe0ff32b2ffe6ad3f9cd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/d433a683f2648ed1e60bdf046c5e2334.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/6261ef66e7b402af78e0963552efb1fb.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/35538713cf5cd2c6dc32cbe6c81c9508.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/4394140def4eeeda55a7b60c8218fbba.jpg</picture>
+</offer><offer id="6074" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Платье COS L Бежевый 6074</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платье COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские платья</param>
+<param name="Цвет">Бежевый</param>
+<param name="Состав">91% хлопок, 9% полиэстер</param>
+<param name="Артикул">6074</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/f1a625e8b2cfaeef1c6fd0f273084b76.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/23c566bf4eaed412e9d48f8776e21b1e.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/22311b93083f20c66557bbdbcadc449a.jpg</picture>
+</offer><offer id="6128" available="true">
+<price>1599</price>
+<currencyId>UAH</currencyId>
+<categoryId>115</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Шорты COS М Бежевый 6128</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Шорты COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские шорты</param>
+<param name="Цвет">Бежевый</param>
+<param name="Состав">60% хлопок, 40% полиамид</param>
+<param name="Артикул">6128</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/05/525/84aeece01762e815cccdf66634f98828.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/05/525/2851dfc0eab04f5f0316f29e50f7fc2d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/05/525/68c9773bc212ce61b3584e4887a07dbc.jpg</picture>
+</offer><offer id="6132" available="true">
+<price>1599</price>
+<currencyId>UAH</currencyId>
+<categoryId>89</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брюки COS 34 Синий 6132</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские утепленные брюки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">100% полиэстер</param>
+<param name="Артикул">6132</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/2e884996aadeef01883fd266225d2c37.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/b881654a03a47a6773586b8b164a4bf5.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/c1d91cd2eb981287ad583952cd13be6f.jpg</picture>
+</offer><offer id="6139" available="true">
+<price>1599</price>
+<currencyId>UAH</currencyId>
+<categoryId>89</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брюки COS 12 Синий 6139</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">12</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские утепленные брюки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">64% полэстер, 33% вискоза</param>
+<param name="Артикул">6139</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/a958125e1a1dbed032c8d87b69822c42.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/b5fc3782e5d3281758a672e44233bd0e.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/0f8cdcc23c838e087d4d0bfad59330a3.jpg</picture>
+</offer><offer id="6153" available="true">
+<price>1599</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Блуза COS S Коричневый 6153</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блуза COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Коричневый</param>
+<param name="Состав">100%  вискоза</param>
+<param name="Артикул">6153</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/02b943104b855e724e0c2ef14bf6d2b1.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/1ef6d03bc6e8dba78c24f04df0d76aca.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/0cad7ae7c1955c1339adb6ad25ba0711.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/1415fb3aa70ff876ef1dfbba3f8a2e18.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/da9b429524ac25a116d6f41ab81e413e.jpeg</picture>
+</offer><offer id="6160" available="true">
+<price>1599</price>
+<currencyId>UAH</currencyId>
+<categoryId>136</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Юбка COS ХS Синий 6160</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Юбка COS</param>
+<param name="Размер">ХS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские юбки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">85% полиамид, 15% эластан</param>
+<param name="Артикул">6160</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/02d0b453a7e2223d98c26e00975171f8.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/c6e50df1ed811ba3b1d180dd39c7914f.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/e4381afc5fc1fbe26efc057abdc04b1e.jpg</picture>
+</offer><offer id="6166" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джемпер COS L Белый 6166</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Белый</param>
+<param name="Состав">92% хлопок, 8% эластан</param>
+<param name="Артикул">6166</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/15106c6ef547b9687909a889c568ba30.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/ac6ec7927f58f978efc6ff81eb1a13d2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/81ec04cc582244207c5f071b586629be.jpg</picture>
+</offer><offer id="6167" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джемпер COS ХS Серый 6167</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">ХS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6167</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4bed2c2643409b40d63baf42ec3ce845.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8b68e2e0531afe112d00b3482f739fd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6e264350a4639d4c2f94cd36c426c7af.jpg</picture>
+</offer><offer id="61671" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS S Серый 61671</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">61671</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4bed2c2643409b40d63baf42ec3ce845.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8b68e2e0531afe112d00b3482f739fd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6e264350a4639d4c2f94cd36c426c7af.jpg</picture>
+</offer><offer id="6174" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джемпер COS S Коричневый 6174</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Коричневый</param>
+<param name="Состав">55% вискоза, 45% хлопок</param>
+<param name="Артикул">6174</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/f5b9e835e3ec8f8402897b05ea2cfefa.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/e3a0c3bff0ee1912b0adc8958bae19ec.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/07d58e0985c59fc78c17352b289a93f1.jpg</picture>
+</offer><offer id="6178" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS L Черный 6178</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">77% вискоза, 23% полиамид</param>
+<param name="Артикул">6178</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/21019b1bbdd047efc1192e1b8edac5b3.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/1d7b54ceb1922c70cddb1ca290b2f6d4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/afdac80fab67447527eb161b268c55b8.jpg</picture>
+</offer><offer id="6179" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS S Черный 6179</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">64% вискоза, 36% хлопок</param>
+<param name="Артикул">6179</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/565c40935a784fdd49420f1df82e8427.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/522eb2d5ded8135d59435fcc25d77e51.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/a0661e82610263a5b40b7ce6ae072990.jpg</picture>
+</offer><offer id="6190" available="true">
+<price>1599</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS S Бежевый 6190</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Бежевый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6190</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53594845</picture><picture>https://images.shafastatic.net/53594850</picture>
+</offer><offer id="6192" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS 32 Голубой 6192</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">100% полиэстер</param>
+<param name="Артикул">6192</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4a59f290c9a1c4d4f899afd09bc5f571.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/a16ec48563dcbefe7d0cdee62f9c0705.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/1be60e50d326d364cef00329e37c79cb.jpg</picture>
+</offer><offer id="6197" available="true">
+<price>3854</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS ХS Белый 6197</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">ХS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Белый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6197</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6d6529075999fb263aeedb7fb47db7b3.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/3cf58503f0c5eda14bbe9ec4298227c8.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/0d4bfa2bca4eb574d090a7e243bef851.jpg</picture>
+</offer><offer id="6204" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS 2 Коричневый 6204</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">2</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Коричневый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6204</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53358034</picture><picture>https://images.shafastatic.net/53358104</picture><picture>https://images.shafastatic.net/53358128</picture>
+</offer><offer id="6218" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джемпер COS М Черный 6218</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">92% вискоза, 8% эластан</param>
+<param name="Артикул">6218</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53439997</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/41304197002a9bb4088c8a6a32f3fd27.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/d5a7fc896e2c066c198b33b78ea6dffe.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/c86a0e6c398ad6209ee01fec9a1186fe.jpg</picture>
+</offer><offer id="6226" available="true">
+<price>3854</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS ХS Розовый 6226</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">ХS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Розовый</param>
+<param name="Состав">92% вискоза, 8% спандекс, верх - 100% шелк</param>
+<param name="Артикул">6226</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/315/24076edc1a20f636d2a2e3828df8c118.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/315/c32b8dc601b9e4a758286d0f9570b611.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/315/dc494966aee65f768b2c6bc1e62cb3da.jpg</picture>
+</offer><offer id="6228" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джемпер COS 36 Синий 6228</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">36</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">70% модал, 30% полиєстер</param>
+<param name="Артикул">6228</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53542660</picture><picture>https://images.shafastatic.net/53542663</picture><picture>https://images.shafastatic.net/53542665</picture>
+</offer><offer id="6232" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS 8 Черный 6232</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">8</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">86% нейлон, 14% шерсть</param>
+<param name="Артикул">6232</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53543748</picture><picture>https://images.shafastatic.net/53543751</picture><picture>https://images.shafastatic.net/53543762</picture>
+</offer><offer id="6233" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS 8 Черный 6233</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">8</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">100% полиэстер</param>
+<param name="Артикул">6233</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53359713</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/489f948e643b33c436d06a80d476db56.jpg</picture>
+</offer><offer id="6235" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>135</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Туника COS 38 Черный 6235</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Туника COS</param>
+<param name="Размер">38</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские туники</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">100% вискоза</param>
+<param name="Артикул">6235</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/402e52f4dc1c0966ed4d4ed7185009be.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/dadf3d4a8a4cea99ba23f60b183afd6a.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/5fddc7aeceed91b354a234ac3ee50e78.jpg</picture>
+</offer><offer id="6240" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джемпер COS М Белый 6240</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Белый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6240</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53352328</picture><picture>https://images.shafastatic.net/53352330</picture><picture>https://images.shafastatic.net/53352333</picture>
+</offer><offer id="6250" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS S Голубой 6250</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">80% вискоза, 19% полиэстер, 1% эластан</param>
+<param name="Артикул">6250</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53350394</picture><picture>https://images.shafastatic.net/53350396</picture><picture>https://images.shafastatic.net/53350398</picture>
+</offer><offer id="6251" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>3</stock_quantity>
+<name>Джемпер COS М Голубой 6251</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6251</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/53349529</picture><picture>https://images.shafastatic.net/53349532</picture>
+</offer><offer id="6253" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS 2 Голубой 6253</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">2</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6253</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/f009e07392bfa3faef424ce6f620dcde.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/00bacf9208459c4b461a65fbceea6ed7.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/ce24d6b83ed9f65399605d7c31655a86.jpg</picture>
+</offer><offer id="6259" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS L Красный 6259</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские джемперы</param>
+<param name="Цвет">Красный</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6259</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/600be5fe1baf2b8ccd77bb5e9772c747.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/76c8dbb389a63a511464f4721d0f84e7.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/aef02c897911fb9e0ade16b1f9f1132a.jpg</picture>
+</offer><offer id="6260" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS L Серый 6260</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские джемперы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6260</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/2cb68a71b64993525813c26501444344.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/f73d677d45135d9e22e746344b8a9e8f.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/dbd14ba69e329166ae358226d22abac1.jpg</picture>
+</offer><offer id="6263" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>19</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Футболка COS М Серый 6263</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Футболка COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские футболки</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6263</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/62860a1ec910d8d7c910abfc80e8746d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/61b8d7b60863771d76f9d4b6a01bc4ad.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/2b9b469bcc28b9679b7c48a364d814e4.jpg</picture>
+</offer><offer id="6264" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>19</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Футболка COS L Сиреневый 6264</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Футболка COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские футболки</param>
+<param name="Цвет">Сиреневый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6264</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/f246d78967690ee7a2aaf16dc616011b.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/79e0241d545936e900514102f5220c32.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/db55eb61b42a68f2834ff4a346ca8ec8.jpg</picture>
+</offer><offer id="6268" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>19</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Футболка COS М Красный 6268</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Футболка COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские футболки</param>
+<param name="Цвет">Красный</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6268</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/47cde7e237f5eddffcf41b4293af2498.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/0fab6e46e46e69ff53a330af023e83dd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/610f168c8f3c00c1a7d4c839062e5fde.jpg</picture>
+</offer><offer id="62681" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>19</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Футболка COS L Красный 62681</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Футболка COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские футболки</param>
+<param name="Цвет">Красный</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">62681</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/47cde7e237f5eddffcf41b4293af2498.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/0fab6e46e46e69ff53a330af023e83dd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/610f168c8f3c00c1a7d4c839062e5fde.jpg</picture>
+</offer><offer id="6276" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>27</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брюки COS 50 Серый 6276</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">50</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские брюки</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">52% хлопок, 48% лён</param>
+<param name="Артикул">6276</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/2d47c8e54248daa4907aa88b4b8b391a.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/676ca09b60c26cbce752c494c3e764d2.jpg</picture>
+</offer><offer id="6280" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>27</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брюки COS 48 Черный 6280</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">48</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские брюки</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">100% вискоза</param>
+<param name="Артикул">6280</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/d3e515a792999fe05d59fa04e630e749.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/bd96a88ebbaae5c10c285e986f21a5f2.jpg</picture>
+</offer><offer id="6281" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>27</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брюки COS 48 Синий 6281</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">48</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские брюки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">66% шерсть, 29% полиамид, 5% кашемир</param>
+<param name="Артикул">6281</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/2c8efb8c8b1e6ee869b72b11f4da9917.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/bb435593d2613b7b28b90f12abc43348.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/1fd4f110e38b3a05317d66e837e1cc3b.jpg</picture>
+</offer><offer id="6292" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS L Серый 6292</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">96% хлопок, 4% эластан</param>
+<param name="Артикул">6292</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/595c30b1d9547d9755312a062f48db7b.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/573693c7f912e63ab72172f226ba5e1d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/90ea87b0c03376f88ec792dc9a2640d0.jpg</picture>
+</offer><offer id="6295" available="true">
+<price>2500</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS ХL Белый 6295</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">ХL</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Белый</param>
+<param name="Состав">62% лиоцел, 36% хлопок, 2% эластан</param>
+<param name="Артикул">6295</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/af5a26e23c53b65b6ed8cf70998aa9d6.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/dafe0482a557b8c114d0e32efdaf1641.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/7fb7836f507575e40915c2660b2abf9f.jpg</picture>
+</offer><offer id="6297" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS ХS Голубой 6297</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">ХS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6297</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/73604b53bd007ccc518c9f546e524c27.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/1cce9c97fdcdb1e27c1be0cbedb20218.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/8d3e0c498436dd7da003e4eec9ed8592.jpg</picture>
+</offer><offer id="6298" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS 38 Голубой 6298</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">38</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6298</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/8f44466b24463ab8cb3d20cab8f010e2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/47856536e52325b4ffdfeec858cde00d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/3cce99b13a28f0c41e19020105f4f1ca.jpg</picture>
+</offer><offer id="6299" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS М Черный 6299</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">70% шерсть, 25% нейлон, 5% кашемир</param>
+<param name="Артикул">6299</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/47177373</picture><picture>https://images.shafastatic.net/47177385</picture><picture>https://images.shafastatic.net/47177388</picture>
+</offer><offer id="6300" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Рубашка COS S Серый 6300</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">70% шерсть, 25% нейлон, 5% кашемир</param>
+<param name="Артикул">6300</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/47238096</picture><picture>https://images.shafastatic.net/47238104</picture><picture>https://images.shafastatic.net/47238115</picture>
+</offer><offer id="63001" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS М Серый 63001</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">70% шерсть, 25% нейлон, 5% кашемир</param>
+<param name="Артикул">63001</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/47238096</picture><picture>https://images.shafastatic.net/47238104</picture><picture>https://images.shafastatic.net/47238115</picture>
+</offer><offer id="6301" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS 39 Синий 6301</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">39</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">74% хлопок, 22% полиамид, 4% эластан</param>
+<param name="Артикул">6301</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/96be77268e662e1651eac378808e7595.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8495774a42cd06d0241106d349a55dfd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8d8de17dd5eed087e2ba34527bd666fc.jpg</picture>
+</offer><offer id="6302" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Рубашка COS М Черный 6302</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Рубашка COS</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские рубашки</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">73% хлопок, 23% полиамид, 4% эластан</param>
+<param name="Артикул">6302</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/941d192b7386b13b060378c507c18b9f.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/f63bccaec134e97b1b2b4817021a82ae.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/e55fc7effc649def0b317a2b5876b2d7.jpg</picture>
+</offer><offer id="50051" available="true">
+<price>8959</price>
+<currencyId>UAH</currencyId>
+<categoryId>82</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Пальто COS S Серый 50051</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Пальто COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские пальто</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">50051</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/668457718c114fc5de8fc49959de7457.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/f2cec4e8372a67fcc78336f2e5565eee.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/9e857fce28199ec0560a673c9f25c9d1.jpeg</picture>
+</offer><offer id="50261" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джемпер COS XS Вишневый 50261</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">XS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские джемперы</param>
+<param name="Цвет">Вишневый</param>
+<param name="Состав">57% лён, 43% хлопок</param>
+<param name="Артикул">50261</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://images.shafastatic.net/46832817</picture><picture>https://images.shafastatic.net/46832820</picture>
+</offer><offer id="50451" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Платье COS 4 Черный 50451</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платье COS</param>
+<param name="Размер">4</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские платья</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">100% ліоцел</param>
+<param name="Артикул">50451</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/458796afd6a3f517880ce46b29b6f459.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/e03c83482ead35ca36b22b87e36d0ef2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/2107bd699ed368c0e40f3c3a24a47fbb.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/e1f3bc9c2e368edc22a647279cd4d24f.jpeg</picture>
+</offer><offer id="50452" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Платье COS 6 Черный 50452</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платье COS</param>
+<param name="Размер">6</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские платья</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">64% полиэстер, 32% район, 4% спандекс</param>
+<param name="Артикул">50452</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/458796afd6a3f517880ce46b29b6f459.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/e03c83482ead35ca36b22b87e36d0ef2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/2107bd699ed368c0e40f3c3a24a47fbb.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/e1f3bc9c2e368edc22a647279cd4d24f.jpeg</picture>
+</offer><offer id="60901" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Платье COS L Красный 60901</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платье COS</param>
+<param name="Размер">L</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские платья</param>
+<param name="Цвет">Красный</param>
+<param name="Состав">67% лиоцел, 33% хлопок</param>
+<param name="Артикул">60901</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/7ae1f9e5e5118d47f7173a483d9f6f40.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/c209bf1d761ee2fc95af14cc8d4628ca.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/80871e47008a8d60dca31dbfb85e8b82.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/0b51d2f56bda6421dad02179236e3c33.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/24a51c1226147f28afbcc2e5256096c0.jpeg</picture>
+</offer><offer id="60911" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Платье COS S Черный 60911</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платье COS</param>
+<param name="Размер">S</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские платья</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">67% лиоцел, 33% хлопок</param>
+<param name="Артикул">60911</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/eaa785401b8a04aed612ad5eae475491.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/751c631d3241b48db0cc48368d32baca.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/00d26600797e5aada75729ecc4b7fffa.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/752d7fcb87464df6e077170a5b93fb6e.jpeg</picture>
+</offer><offer id="61171" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>89</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брюки COS 8 Черный 61171</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">8</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские утепленные брюки</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">50% вискоза, 46% полиэстер, 4% эластан</param>
+<param name="Артикул">61171</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/5229ab821892b278c4d1a82b91886da6.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/c1195ab3fa87594cc1d0d7ba8c4bd399.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/cc1c3887dcd9a5e3924032628b0d1dbe.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/5863da20c78a3fd6c40b6cc51b3dfff6.jpeg</picture>
+</offer><offer id="61211" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>27</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Брюки COS 48 Синий 61211</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брюки COS</param>
+<param name="Размер">48</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские брюки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">67%  шерсть, 31% полиэстер, 2% эластан</param>
+<param name="Артикул">61211</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/ca2e88d168506f4afd2465a5c3f4914b.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/452d42d16669ee159e8a55db8fa563e2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/53cd5024489f117bd313b8eb390879c2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/4c1e010a864a64a45ead25291494718e.jpeg</picture>
+</offer><offer id="61471" available="true">
+<price>1299</price>
+<currencyId>UAH</currencyId>
+<categoryId>136</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Юбка COS 42 Оливково-зеленый 61471</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Юбка COS</param>
+<param name="Размер">42</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские юбки</param>
+<param name="Цвет">Оливково-зеленый</param>
+<param name="Состав">100% полиэстер</param>
+<param name="Артикул">61471</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/358/6c56d258488df203e9441e5fa57a88b8.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/358/2531c85db690499b253136c524190b21.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/358/69840686378f99023e19709bc794bd29.jpeg</picture>
+</offer><offer id="61691" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Блузка COS S/М Черный 61691</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">S/М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">88% шерсть, 12% нейлон</param>
+<param name="Артикул">61691</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/d43357134be490993715a13f3c8fdedd.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/76b1df734840bfcf5bf9d525f5ab522b.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/c57182ae6ecf138e6eb918e139fa4938.jpeg</picture>
+</offer><offer id="62251" available="true">
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Блузка COS 8 Розовый 62251</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">8</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Розовый</param>
+<param name="Состав">100% полиэстер</param>
+<param name="Артикул">62251</param>
+<param name="Доставка/Оплата">в изделии возможно повреждение бирки
+</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/cd44a8a72bc71c6724c1b6abe22312fc.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/4b0fff64f54a44af801b00f58eb154fa.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/f656f8ab9ab9ccb70a900864cb0c827e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/67cd55a18f051955c7e489a63f95264e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/a68ff3579f8c5c0e233f55559ef26dc8.jpeg</picture>
+</offer><offer id="62321" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Блузка COS 8 Белый 62321</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">8</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Белый</param>
+<param name="Состав"> 87% хлопок, 13% шёлк</param>
+<param name="Артикул">62321</param>
+<param name="Доставка/Оплата">блуза с круглым вырезом горловины, застегивается сзади на молнию</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/89d926f153d011d281e42fcdd0ce43bc.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/6bdfa0db75f6f11b9c842665835e23a8.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/9c3d9301b1740dda4972db425178299d.jpeg</picture>
+</offer><offer id="623211" available="true">
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>106</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Блузка COS 12 Белый 623211</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Блузка COS</param>
+<param name="Размер">12</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские блузы</param>
+<param name="Цвет">Белый</param>
+<param name="Состав"> 87% хлопок, 13% шёлк</param>
+<param name="Артикул">623211</param>
+<param name="Доставка/Оплата">блуза с круглым вырезом горловины, застегивается сзади на молнию</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/89d926f153d011d281e42fcdd0ce43bc.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/6bdfa0db75f6f11b9c842665835e23a8.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/9c3d9301b1740dda4972db425178299d.jpeg</picture>
+</offer><offer id="7004" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 27-32 Синий 7004</name>
+<description><![CDATA[Regular Fit Сидят ниже талии&lt;br /&gt;Прямые по бедру&lt;br /&gt;Сужаются на голени]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">27-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Мужские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">7004</param>
+<param name="Доставка/Оплата">Regular Fit Сидят ниже талии
+Прямые по бедру
+Сужаются на голени</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/895f8166ef1e57d4c5c62daa95a399d6.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/f851741cadc7449f0c5dc5442b5b92bb.jpg</picture>
+</offer><offer id="7030" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-30 Синий 7030</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">7030</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/90ae3fb24c8328076b9fecfe9295c616.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/2f6ab3eed13822a93cfd893257ce7d88.jpg</picture>
+</offer><offer id="70301" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 70301</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">70301</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/90ae3fb24c8328076b9fecfe9295c616.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/2f6ab3eed13822a93cfd893257ce7d88.jpg</picture>
+</offer><offer id="70302" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 24-32 Синий 70302</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">70302</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/90ae3fb24c8328076b9fecfe9295c616.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/2f6ab3eed13822a93cfd893257ce7d88.jpg</picture>
+</offer><offer id="7031" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Серый 7031</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">7031</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/ffd0c1dc3c7ee5ee0d19f0013db8ccb2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/4b7b873b96b2ea61c7ef1e3078e549cd.jpg</picture>
+</offer><offer id="70311" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>3</stock_quantity>
+<name>Джинсы Levi's 23-34 Серый 70311</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">70311</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/ffd0c1dc3c7ee5ee0d19f0013db8ccb2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/4b7b873b96b2ea61c7ef1e3078e549cd.jpg</picture>
+</offer><offer id="7035" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7035</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">98% хлопок, 2% эластан</param>
+<param name="Артикул">7035</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/98002e0b9c6b1eeb05c5a07a4f386635.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/2bb47245e13069531be4f1e0e991caef.jpg</picture>
+</offer><offer id="7036" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Черный 7036</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">63% хлопок, 29% полиэстер,  2% эластан</param>
+<param name="Артикул">7036</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/c1d0627be3d2bef228872575a1e8bf5a.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/a787a874a45713a192a276141de19f28.jpg</picture>
+</offer><offer id="7039" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джинсы Levi's 24 Синий 7039</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">81% хлопок, 17% полиэстер, 2% эластан</param>
+<param name="Артикул">7039</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/d62d07976520096876a1733233d4e7fe.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/0227ecec4da372aa49fe4dc9d66b4ae8.jpg</picture>
+</offer><offer id="7040" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7040</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">85% хлопок, 14% полиэстер, 1% эластан</param>
+<param name="Артикул">7040</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/4115161147bb9c57ddc6a8e412fd76c5.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/29dedc8d5328484d2f9a69e5621b660b.jpg</picture>
+</offer><offer id="7042" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7042</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">94% хлопок, 5% полиэстер, 1% эластан</param>
+<param name="Артикул">7042</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/ac7964e657209d300deadef1e7361953.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/f11222e76f9c9980d14b88bac4b76dd9.jpg</picture>
+</offer><offer id="7043" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 25 Белый 7043</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">25</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Белый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">7043</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/a8f4f005aff576cbe012ac244d570066.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/7f76b5429ff2578699a216f60134d72c.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/8e690067de4e1f1ccf973a180083fbf7.jpg</picture>
+</offer><offer id="7047" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>3</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7047</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">7047</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/7605b5d2e20fb3dcf745183b48098b68.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/dfe92841dd2cea39e7df9bc5e3b01281.jpg</picture>
+</offer><offer id="70471" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-34 Синий 70471</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">70471</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/7605b5d2e20fb3dcf745183b48098b68.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/dfe92841dd2cea39e7df9bc5e3b01281.jpg</picture>
+</offer><offer id="70472" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джинсы Levi's 24-30 Синий 70472</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">70472</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/7605b5d2e20fb3dcf745183b48098b68.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/dfe92841dd2cea39e7df9bc5e3b01281.jpg</picture>
+</offer><offer id="70493" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 70493</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% эластан</param>
+<param name="Артикул">70493</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/294771a5757f7cd79236c6e39e0f2b85.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/0bcfde88c15e422802344ad79f7bc857.jpg</picture>
+</offer><offer id="70494" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 24-30 Синий 70494</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">70494</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/294771a5757f7cd79236c6e39e0f2b85.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/0bcfde88c15e422802344ad79f7bc857.jpg</picture>
+</offer><offer id="7052" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-34 Синий 7052</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">62% хлопок, 26% полиэстер, 11% эластомультиэстер, 1% эластан</param>
+<param name="Артикул">7052</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/af8013358b1b4245ad0d44622e59a32b.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/dc048d7929e91d0b971b58ff1c7e3f03.jpg</picture>
+</offer><offer id="7053" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джинсы Levi's 24-32 Синий 7053</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">68% хлопок, 19% полиэстер, 11% эластомультиэстер, 2% эластан </param>
+<param name="Артикул">7053</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/204cd98c69fb74002c41514a58fc4bd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/015ee6f3260026e5402d99fa445ab77d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/643d6caa02d89ddcf31f97e8cd5fb72d.jpg</picture>
+</offer><offer id="7065" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 24-30 Голубой 7065</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Голубой</param>
+<param name="Состав">60% хлопок, 24% полиэстер, 12% вискоза, 4% эластан</param>
+<param name="Артикул">7065</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/33e4534fcc638b5e7577c626fbd98ad9.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/f539561b5167ac473cb4fae100327a9f.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/ca8ebf6af883952e1c0f1e3ee23c2fa7.jpg</picture>
+</offer><offer id="7080" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7080</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7080</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/74415319b3686111a1b64025cb279991.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/a581858d7d2f8c275fb97ba05ca77b71.jpg</picture>
+</offer><offer id="7081" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-30 Синий 7081</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">89% хлопок, 9% полиэстер,  2% эластан</param>
+<param name="Артикул">7081</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/084f75fab727a5425447ebce612cb9db.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/8ec635dc44d4b3e4b658fd14d111d765.jpg</picture>
+</offer><offer id="7085" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 29-32 Синий 7085</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">29-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7085</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/1e7b58bd89b2959707d0101c4435877d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/b33430c2af975c7a7a67eabd94dbef3c.jpg</picture>
+</offer><offer id="7088" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7088</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7088</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/b787194f941632d7034bec516f6e1b48.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/2831845409482760cfb942eeed6ebe57.jpg</picture>
+</offer><offer id="7105" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>2</stock_quantity>
+<name>Джинсы Levi's 23-32 Синий 7105</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7105</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/6b5265cb74ead7ff14bb1ef189977dc4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/8f7f03a0737b6c980ebaf16fa89effec.jpg</picture>
+</offer><offer id="7107" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 23-32 Серый 7107</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7107</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/5040da98e42363af18ee200a07804f88.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/f7e4f918815c862ec9c927e433dd36d0.jpg</picture>
+</offer><offer id="7091" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джинсы Levi's 23-30 Синий 7091</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">60% хлопок, 23% вискоза, 16% полиэстер, 1% эластан</param>
+<param name="Артикул">7091</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/562022427b7e44c53116651a39adb080.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/923c8164821c94052e091b3a93f614f6.jpg</picture>
+</offer><offer id="7092" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джинсы Levi's 24-32 Синий 7092</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-32</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">92% хлопок, 6% эластомультиэстер, 2% эластан</param>
+<param name="Артикул">7092</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/9a9a6bce817bc340e1b9c68b49103db2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/a3c128eec633afafd63fe690ed2530a2.jpg</picture>
+</offer><offer id="7093" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 24-34 Синий 7093</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7093</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/3d8423fc567ffa36c06c9971121ef850.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/8f544508cf80d01602c929853d8815a2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/d82a33b38a8e3d80046e0fe22ec2dfbf.jpg</picture>
+</offer><offer id="7099" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>3</stock_quantity>
+<name>Джинсы Levi's 24-34 Синий 7099</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">74% хлопок, 25% полиэстер, 1% эластан</param>
+<param name="Артикул">7099</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/b8ae28a0577d59965b38a9a124e29759.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/b207d7b7441882ac323087ea91c6c213.jpg</picture>
+</offer><offer id="7100" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>3</stock_quantity>
+<name>Джинсы Levi's 23-30 Синий 7100</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">23-30</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">99% хлопок, 1% эластан</param>
+<param name="Артикул">7100</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/ead3d8d207e59c2bf01b5a0cd0e53581.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/6b88286b0727be9e79ee2e0234690144.jpg</picture>
+</offer><offer id="7106" available="true">
+<price>8545</price>
+<currencyId>UAH</currencyId>
+<categoryId>93</categoryId>
+<vendor>Levi's</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Джинсы Levi's 24-34 Серый 7106</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джинсы Levi's</param>
+<param name="Размер">24-34</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джинсы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
+<param name="Артикул">7106</param>
+<param name="Доставка/Оплата"></param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/bc2807336b480396ad4b5333db370b98.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/e8cebdd7d94cbb6af6c1714f811455c9.jpg</picture>
+</offer></offers>
+</shop>
+</yml_catalog>
