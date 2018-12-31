@@ -166,7 +166,7 @@
 <category id="157" parentId="70">Перчатки и варежки</category>
 <category id="158" parentId="70">Шарфы и платки</category>
 <category id="159" parentId="70">Комплекты белья</category>
-</categories><offers><offer id="6167" available="true">
+</categories><offers><offer id="6167" available="false">
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>125</categoryId>
@@ -182,7 +182,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">6167</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4bed2c2643409b40d63baf42ec3ce845.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8b68e2e0531afe112d00b3482f739fd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6e264350a4639d4c2f94cd36c426c7af.jpg</picture>
-</offer><offer id="6199" available="true">
+</offer><offer id="6199" available="false">
 <price>200</price>
 <currencyId>UAH</currencyId>
 <categoryId>151</categoryId>
@@ -198,7 +198,7 @@
 <param name="Состав">100% полиэстрер</param>
 <param name="Артикул">6199</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/0ffbf8a1d60498a24cec2020f06f8b57.jpeg</picture>
-</offer><offer id="6153" available="true">
+</offer><offer id="6153" available="false">
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -214,7 +214,7 @@
 <param name="Состав">100%  вискоза</param>
 <param name="Артикул">6153</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/02b943104b855e724e0c2ef14bf6d2b1.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/1ef6d03bc6e8dba78c24f04df0d76aca.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/0cad7ae7c1955c1339adb6ad25ba0711.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/1415fb3aa70ff876ef1dfbba3f8a2e18.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/da9b429524ac25a116d6f41ab81e413e.jpeg</picture>
-</offer><offer id="6295" available="true">
+</offer><offer id="6295" available="false">
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>17</categoryId>
@@ -230,7 +230,7 @@
 <param name="Состав">62% лиоцел, 36% хлопок, 2% эластан</param>
 <param name="Артикул">6295</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/af5a26e23c53b65b6ed8cf70998aa9d6.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/dafe0482a557b8c114d0e32efdaf1641.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/7fb7836f507575e40915c2660b2abf9f.jpg</picture>
-</offer><offer id="6192" available="true">
+</offer><offer id="6192" available="false">
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -246,7 +246,7 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">6192</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4a59f290c9a1c4d4f899afd09bc5f571.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/a16ec48563dcbefe7d0cdee62f9c0705.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/1be60e50d326d364cef00329e37c79cb.jpg</picture>
-</offer><offer id="7106" available="true">
+</offer><offer id="7106" available="false">
 <price>1100</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -262,7 +262,7 @@
 <param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
 <param name="Артикул">7106</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/bc2807336b480396ad4b5333db370b98.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/e8cebdd7d94cbb6af6c1714f811455c9.jpg</picture>
-</offer><offer id="7100" available="true">
+</offer><offer id="7100" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -278,7 +278,7 @@
 <param name="Состав">99% хлопок, 1% эластан</param>
 <param name="Артикул">7100</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/ead3d8d207e59c2bf01b5a0cd0e53581.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/6b88286b0727be9e79ee2e0234690144.jpg</picture>
-</offer><offer id="7105" available="true">
+</offer><offer id="7105" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -294,7 +294,7 @@
 <param name="Состав">99% хлопок, 1% эластан</param>
 <param name="Артикул">7105</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/6b5265cb74ead7ff14bb1ef189977dc4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/8f7f03a0737b6c980ebaf16fa89effec.jpg</picture>
-</offer><offer id="7107" available="true">
+</offer><offer id="7107" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -310,7 +310,7 @@
 <param name="Состав">99% хлопок, 1% эластан</param>
 <param name="Артикул">7107</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/5040da98e42363af18ee200a07804f88.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/515/f7e4f918815c862ec9c927e433dd36d0.jpg</picture>
-</offer><offer id="7092" available="true">
+</offer><offer id="7092" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -326,7 +326,7 @@
 <param name="Состав">92% хлопок, 6% эластомультиэстер, 2% эластан</param>
 <param name="Артикул">7092</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/9a9a6bce817bc340e1b9c68b49103db2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/a3c128eec633afafd63fe690ed2530a2.jpg</picture>
-</offer><offer id="70302" available="true">
+</offer><offer id="70302" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -342,7 +342,7 @@
 <param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
 <param name="Артикул">70302</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/90ae3fb24c8328076b9fecfe9295c616.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/2f6ab3eed13822a93cfd893257ce7d88.jpg</picture>
-</offer><offer id="7080" available="true">
+</offer><offer id="7080" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -358,7 +358,7 @@
 <param name="Состав">99% хлопок, 1% эластан</param>
 <param name="Артикул">7080</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/74415319b3686111a1b64025cb279991.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/a581858d7d2f8c275fb97ba05ca77b71.jpg</picture>
-</offer><offer id="7081" available="true">
+</offer><offer id="7081" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -374,7 +374,7 @@
 <param name="Состав">89% хлопок, 9% полиэстер,  2% эластан</param>
 <param name="Артикул">7081</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/084f75fab727a5425447ebce612cb9db.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/8ec635dc44d4b3e4b658fd14d111d765.jpg</picture>
-</offer><offer id="7085" available="true">
+</offer><offer id="7085" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -390,7 +390,7 @@
 <param name="Состав">99% хлопок, 1% эластан</param>
 <param name="Артикул">7085</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/1e7b58bd89b2959707d0101c4435877d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/b33430c2af975c7a7a67eabd94dbef3c.jpg</picture>
-</offer><offer id="7052" available="true">
+</offer><offer id="7052" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -406,7 +406,7 @@
 <param name="Состав">62% хлопок, 26% полиэстер, 11% эластомультиэстер, 1% эластан</param>
 <param name="Артикул">7052</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/af8013358b1b4245ad0d44622e59a32b.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/dc048d7929e91d0b971b58ff1c7e3f03.jpg</picture>
-</offer><offer id="7053" available="true">
+</offer><offer id="7053" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -422,7 +422,7 @@
 <param name="Состав">68% хлопок, 19% полиэстер, 11% эластомультиэстер, 2% эластан </param>
 <param name="Артикул">7053</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/204cd98c69fb74002c41514a58fc4bd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/015ee6f3260026e5402d99fa445ab77d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/739/643d6caa02d89ddcf31f97e8cd5fb72d.jpg</picture>
-</offer><offer id="7031" available="true">
+</offer><offer id="7031" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -438,7 +438,7 @@
 <param name="Состав">87% хлопок, 12% полиэстер, 1% полиэстер</param>
 <param name="Артикул">7031</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/ffd0c1dc3c7ee5ee0d19f0013db8ccb2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/4b7b873b96b2ea61c7ef1e3078e549cd.jpg</picture>
-</offer><offer id="7039" available="true">
+</offer><offer id="7039" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>93</categoryId>
@@ -454,7 +454,7 @@
 <param name="Состав">81% хлопок, 17% полиэстер, 2% эластан</param>
 <param name="Артикул">7039</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/d62d07976520096876a1733233d4e7fe.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/63/0227ecec4da372aa49fe4dc9d66b4ae8.jpg</picture>
-</offer><offer id="61171" available="true">
+</offer><offer id="61171" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>89</categoryId>
@@ -470,7 +470,7 @@
 <param name="Состав">50% вискоза, 46% полиэстер, 4% эластан</param>
 <param name="Артикул">61171</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/5229ab821892b278c4d1a82b91886da6.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/c1195ab3fa87594cc1d0d7ba8c4bd399.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/cc1c3887dcd9a5e3924032628b0d1dbe.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/5863da20c78a3fd6c40b6cc51b3dfff6.jpeg</picture>
-</offer><offer id="61211" available="true">
+</offer><offer id="61211" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>27</categoryId>
@@ -486,7 +486,7 @@
 <param name="Состав">67%  шерсть, 31% полиэстер, 2% эластан</param>
 <param name="Артикул">61211</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/ca2e88d168506f4afd2465a5c3f4914b.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/452d42d16669ee159e8a55db8fa563e2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/53cd5024489f117bd313b8eb390879c2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/4c1e010a864a64a45ead25291494718e.jpeg</picture>
-</offer><offer id="61471" available="true">
+</offer><offer id="61471" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>136</categoryId>
@@ -502,7 +502,7 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">61471</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/358/6c56d258488df203e9441e5fa57a88b8.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/358/2531c85db690499b253136c524190b21.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/358/69840686378f99023e19709bc794bd29.jpeg</picture>
-</offer><offer id="61691" available="true">
+</offer><offer id="61691" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -518,7 +518,7 @@
 <param name="Состав">88% шерсть, 12% нейлон</param>
 <param name="Артикул">61691</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/d43357134be490993715a13f3c8fdedd.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/76b1df734840bfcf5bf9d525f5ab522b.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/c57182ae6ecf138e6eb918e139fa4938.jpeg</picture>
-</offer><offer id="62251" available="true">
+</offer><offer id="62251" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -534,7 +534,7 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">62251</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/cd44a8a72bc71c6724c1b6abe22312fc.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/4b0fff64f54a44af801b00f58eb154fa.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/f656f8ab9ab9ccb70a900864cb0c827e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/67cd55a18f051955c7e489a63f95264e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/115/a68ff3579f8c5c0e233f55559ef26dc8.jpeg</picture>
-</offer><offer id="62321" available="true">
+</offer><offer id="62321" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -550,7 +550,7 @@
 <param name="Состав"> 87% хлопок, 13% шёлк</param>
 <param name="Артикул">62321</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/89d926f153d011d281e42fcdd0ce43bc.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/6bdfa0db75f6f11b9c842665835e23a8.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/9c3d9301b1740dda4972db425178299d.jpeg</picture>
-</offer><offer id="623211" available="true">
+</offer><offer id="623211" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -566,7 +566,7 @@
 <param name="Состав"> 87% хлопок, 13% шёлк</param>
 <param name="Артикул">623211</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/89d926f153d011d281e42fcdd0ce43bc.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/6bdfa0db75f6f11b9c842665835e23a8.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/09/122/9c3d9301b1740dda4972db425178299d.jpeg</picture>
-</offer><offer id="50051" available="true">
+</offer><offer id="50051" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>82</categoryId>
@@ -582,7 +582,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">50051</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/668457718c114fc5de8fc49959de7457.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/f2cec4e8372a67fcc78336f2e5565eee.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/9e857fce28199ec0560a673c9f25c9d1.jpeg</picture>
-</offer><offer id="50261" available="true">
+</offer><offer id="50261" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>34</categoryId>
@@ -598,7 +598,7 @@
 <param name="Состав">57% лён, 43% хлопок</param>
 <param name="Артикул">50261</param>
 <picture>https://images.shafastatic.net/46832817</picture><picture>https://images.shafastatic.net/46832820</picture>
-</offer><offer id="6259" available="true">
+</offer><offer id="6259" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>34</categoryId>
@@ -614,7 +614,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">6259</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/600be5fe1baf2b8ccd77bb5e9772c747.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/76c8dbb389a63a511464f4721d0f84e7.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/aef02c897911fb9e0ade16b1f9f1132a.jpg</picture>
-</offer><offer id="63001" available="true">
+</offer><offer id="63001" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>17</categoryId>
@@ -630,7 +630,7 @@
 <param name="Состав">70% шерсть, 25% нейлон, 5% кашемир</param>
 <param name="Артикул">63001</param>
 <picture>https://images.shafastatic.net/47238096</picture><picture>https://images.shafastatic.net/47238104</picture><picture>https://images.shafastatic.net/47238115</picture>
-</offer><offer id="6299" available="true">
+</offer><offer id="6299" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>17</categoryId>
@@ -646,7 +646,7 @@
 <param name="Состав">70% шерсть, 25% нейлон, 5% кашемир</param>
 <param name="Артикул">6299</param>
 <picture>https://images.shafastatic.net/47177373</picture><picture>https://images.shafastatic.net/47177385</picture><picture>https://images.shafastatic.net/47177388</picture>
-</offer><offer id="6260" available="true">
+</offer><offer id="6260" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>34</categoryId>
@@ -662,7 +662,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">6260</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/2cb68a71b64993525813c26501444344.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/f73d677d45135d9e22e746344b8a9e8f.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/dbd14ba69e329166ae358226d22abac1.jpg</picture>
-</offer><offer id="6263" available="true">
+</offer><offer id="6263" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>19</categoryId>
@@ -678,7 +678,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">6263</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/62860a1ec910d8d7c910abfc80e8746d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/61b8d7b60863771d76f9d4b6a01bc4ad.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/2b9b469bcc28b9679b7c48a364d814e4.jpg</picture>
-</offer><offer id="62681" available="true">
+</offer><offer id="62681" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>19</categoryId>
@@ -694,7 +694,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">62681</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/47cde7e237f5eddffcf41b4293af2498.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/0fab6e46e46e69ff53a330af023e83dd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/610f168c8f3c00c1a7d4c839062e5fde.jpg</picture>
-</offer><offer id="6276" available="true">
+</offer><offer id="6276" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>27</categoryId>
@@ -710,7 +710,7 @@
 <param name="Состав">52% хлопок, 48% лён</param>
 <param name="Артикул">6276</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/2d47c8e54248daa4907aa88b4b8b391a.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/676ca09b60c26cbce752c494c3e764d2.jpg</picture>
-</offer><offer id="6280" available="true">
+</offer><offer id="6280" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>27</categoryId>
@@ -726,7 +726,7 @@
 <param name="Состав">100% вискоза</param>
 <param name="Артикул">6280</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/d3e515a792999fe05d59fa04e630e749.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/15/bd96a88ebbaae5c10c285e986f21a5f2.jpg</picture>
-</offer><offer id="6281" available="true">
+</offer><offer id="6281" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>27</categoryId>
@@ -742,7 +742,7 @@
 <param name="Состав">66% шерсть, 29% полиамид, 5% кашемир</param>
 <param name="Артикул">6281</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/2c8efb8c8b1e6ee869b72b11f4da9917.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/bb435593d2613b7b28b90f12abc43348.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/1fd4f110e38b3a05317d66e837e1cc3b.jpg</picture>
-</offer><offer id="6228" available="true">
+</offer><offer id="6228" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>125</categoryId>
@@ -758,7 +758,7 @@
 <param name="Состав">70% модал, 30% полиєстер</param>
 <param name="Артикул">6228</param>
 <picture>https://images.shafastatic.net/53542660</picture><picture>https://images.shafastatic.net/53542663</picture><picture>https://images.shafastatic.net/53542665</picture>
-</offer><offer id="6178" available="true">
+</offer><offer id="6178" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>125</categoryId>
@@ -774,7 +774,7 @@
 <param name="Состав">77% вискоза, 23% полиамид</param>
 <param name="Артикул">6178</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/21019b1bbdd047efc1192e1b8edac5b3.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/1d7b54ceb1922c70cddb1ca290b2f6d4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/afdac80fab67447527eb161b268c55b8.jpg</picture>
-</offer><offer id="6179" available="true">
+</offer><offer id="6179" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>125</categoryId>
@@ -790,7 +790,7 @@
 <param name="Состав">64% вискоза, 36% хлопок</param>
 <param name="Артикул">6179</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/565c40935a784fdd49420f1df82e8427.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/522eb2d5ded8135d59435fcc25d77e51.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/a0661e82610263a5b40b7ce6ae072990.jpg</picture>
-</offer><offer id="5046" available="true">
+</offer><offer id="5046" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>133</categoryId>
@@ -806,7 +806,7 @@
 <param name="Состав">100% ліоцел</param>
 <param name="Артикул">5046</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/8ad41a8fe536fe0ff32b2ffe6ad3f9cd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/d433a683f2648ed1e60bdf046c5e2334.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/6261ef66e7b402af78e0963552efb1fb.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/35538713cf5cd2c6dc32cbe6c81c9508.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/06/257/4394140def4eeeda55a7b60c8218fbba.jpg</picture>
-</offer><offer id="6074" available="true">
+</offer><offer id="6074" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>133</categoryId>
@@ -822,7 +822,7 @@
 <param name="Состав">91% хлопок, 9% полиэстер</param>
 <param name="Артикул">6074</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/f1a625e8b2cfaeef1c6fd0f273084b76.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/23c566bf4eaed412e9d48f8776e21b1e.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/22311b93083f20c66557bbdbcadc449a.jpg</picture>
-</offer><offer id="6128" available="true">
+</offer><offer id="6128" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>115</categoryId>
@@ -838,7 +838,7 @@
 <param name="Состав">60% хлопок, 40% полиамид</param>
 <param name="Артикул">6128</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/05/525/84aeece01762e815cccdf66634f98828.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/05/525/2851dfc0eab04f5f0316f29e50f7fc2d.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/05/525/68c9773bc212ce61b3584e4887a07dbc.jpg</picture>
-</offer><offer id="61671" available="true">
+</offer><offer id="61671" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>125</categoryId>
@@ -854,7 +854,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">61671</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4bed2c2643409b40d63baf42ec3ce845.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8b68e2e0531afe112d00b3482f739fd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6e264350a4639d4c2f94cd36c426c7af.jpg</picture>
-</offer><offer id="6204" available="true">
+</offer><offer id="6204" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>125</categoryId>
@@ -870,7 +870,7 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">6204</param>
 <picture>https://images.shafastatic.net/53358034</picture><picture>https://images.shafastatic.net/53358104</picture><picture>https://images.shafastatic.net/53358128</picture>
-</offer><offer id="6132" available="true">
+</offer><offer id="6132" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>89</categoryId>
