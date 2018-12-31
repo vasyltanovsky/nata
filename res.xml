@@ -156,7 +156,49 @@
 <category id="147" parentId="143">Женские носки</category>
 <category id="148" parentId="143">Женские следы</category>
 <category id="149" parentId="143">Женские чулки</category>
-</categories><offers><offer id="6153" available="true">
+<category id="150" parentId="70">Сумки и аксесуары</category>
+<category id="151" parentId="150">Бижутерия</category>
+<category id="152" parentId="150">Ремни и пояса</category>
+<category id="153" parentId="1">Шорты и плавки</category>
+<category id="154" parentId="153">Мужские шорты</category>
+<category id="155" parentId="70">Купальники и пляжная одежда</category>
+<category id="156" parentId="155">Купальники</category>
+<category id="157" parentId="70">Перчатки и варежки</category>
+<category id="158" parentId="70">Шарфы и платки</category>
+<category id="159" parentId="70">Комплекты белья</category>
+</categories><offers><offer id="6167" available="true">
+<price>900</price>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Джемпер COS ХS Серый 6167</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Джемпер COS</param>
+<param name="Размер">ХS</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Женские джемперы</param>
+<param name="Цвет">Серый</param>
+<param name="Состав">100% хлопок</param>
+<param name="Артикул">6167</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4bed2c2643409b40d63baf42ec3ce845.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8b68e2e0531afe112d00b3482f739fd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6e264350a4639d4c2f94cd36c426c7af.jpg</picture>
+</offer><offer id="6199" available="true">
+<price>200</price>
+<currencyId>UAH</currencyId>
+<categoryId>151</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Подвеска COS ONE SIZE Бежевый 6199</name>
+<description><![CDATA[в изделии возможно повреждение бирки&lt;br /&gt;]]></description>
+<param name="Вид">Подвеска COS</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Бижутерия</param>
+<param name="Цвет">Бежевый</param>
+<param name="Состав">100% полиэстрер</param>
+<param name="Артикул">6199</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/138/0ffbf8a1d60498a24cec2020f06f8b57.jpeg</picture>
+</offer><offer id="6153" available="true">
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>106</categoryId>
@@ -924,22 +966,6 @@
 <param name="Состав">92% хлопок, 8% эластан</param>
 <param name="Артикул">6166</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/15106c6ef547b9687909a889c568ba30.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/ac6ec7927f58f978efc6ff81eb1a13d2.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/317/81ec04cc582244207c5f071b586629be.jpg</picture>
-</offer><offer id="6167" available="true">
-<price>900</price>
-<currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
-<vendor>COS</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Джемпер COS ХS Серый 6167</name>
-<description><![CDATA[]]></description>
-<param name="Вид">Джемпер COS</param>
-<param name="Размер">ХS</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские джемперы</param>
-<param name="Цвет">Серый</param>
-<param name="Состав">100% хлопок</param>
-<param name="Артикул">6167</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/4bed2c2643409b40d63baf42ec3ce845.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/8b68e2e0531afe112d00b3482f739fd4.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/03/316/6e264350a4639d4c2f94cd36c426c7af.jpg</picture>
 </offer><offer id="6174" available="true">
 <price>900</price>
 <currencyId>UAH</currencyId>
@@ -1391,7 +1417,7 @@
 </offer><offer id="6271" available="true">
 <price>900</price>
 <currencyId>UAH</currencyId>
-<categoryId>27</categoryId>
+<categoryId>154</categoryId>
 <vendor>COS</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Шорты COS 50 Красный 6271</name>
@@ -1399,7 +1425,7 @@
 <param name="Вид">Шорты COS</param>
 <param name="Размер">50</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Мужские брюки</param>
+<param name="Категория">Мужские шорты</param>
 <param name="Цвет">Красный</param>
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">6271</param>
@@ -1503,7 +1529,7 @@
 </offer><offer id="6323" available="true">
 <price>250</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>COS</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Плавки COS 34 Голубой 6323</name>
@@ -1511,7 +1537,7 @@
 <param name="Вид">Плавки COS</param>
 <param name="Размер">34</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Голубой</param>
 <param name="Состав">70% полиамид, 30% эластан</param>
 <param name="Артикул">6323</param>
@@ -1551,7 +1577,7 @@
 </offer><offer id="6325" available="true">
 <price>250</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>COS</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Плавки COS 40 Белый 6325</name>
@@ -1559,7 +1585,7 @@
 <param name="Вид">Плавки COS</param>
 <param name="Размер">40</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Белый</param>
 <param name="Состав">93% полиамид, 7% эластан</param>
 <param name="Артикул">6325</param>
@@ -1567,7 +1593,7 @@
 </offer><offer id="6323" available="true">
 <price>250</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>COS</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Плавки COS 40 Голубой 6323</name>
@@ -1575,7 +1601,7 @@
 <param name="Вид">Плавки COS</param>
 <param name="Размер">40</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Голубой</param>
 <param name="Состав">70% полиамид, 30% эластан</param>
 <param name="Артикул">6323</param>
@@ -1615,7 +1641,7 @@
 </offer><offer id="6328" available="true">
 <price>870</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>COS</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник COS 42 Синий 6328</name>
@@ -1623,7 +1649,7 @@
 <param name="Вид">Купальник COS</param>
 <param name="Размер">42</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Синий</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6328</param>
@@ -1740,22 +1766,6 @@
 <param name="Состав">76% полиамид, 24% металическая нить</param>
 <param name="Артикул">6394</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/04/131/45248562c174dd15e96e79c306b5b163.jpg</picture>
-</offer><offer id="6400" available="true">
-<price>900</price>
-<currencyId>UAH</currencyId>
-<categoryId>136</categoryId>
-<vendor>COS</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Юбка COS 38 Черный 6400</name>
-<description><![CDATA[]]></description>
-<param name="Вид">Юбка COS</param>
-<param name="Размер">38</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские юбки</param>
-<param name="Цвет">Черный</param>
-<param name="Состав">50% хлопок, 46%вискоза,4% эластан</param>
-<param name="Артикул">6400</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/a7789684f2d73ab7e72d9cfb5011f497.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/3860299de4081e0872f266c3f6105c13.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/460dd23d873451ad5cba98563e4e8f76.jpeg</picture>
 </offer><offer id="61741" available="true">
 <price>900</price>
 <currencyId>UAH</currencyId>
@@ -1836,6 +1846,22 @@
 <param name="Состав">84% хлопок, 12% нейлон, 4% спандекс</param>
 <param name="Артикул">62291</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/ca4bd7bc0766ff0104f1aefc6c6090be.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/1e5d625053496c6fcfb3fff57b6d728e.jpeg</picture>
+</offer><offer id="619911" available="true">
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>151</categoryId>
+<vendor>COS</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Брелок COS ONE SIZE Бежевый 619911</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Брелок COS</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Бижутерия</param>
+<param name="Цвет">Бежевый</param>
+<param name="Состав">100% металл</param>
+<param name="Артикул">619911</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/56382498e048d9a09dd30c2b6d381318.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/7097dbc53063e3995965aa7216ce046e.jpeg</picture>
 </offer><offer id="7004" available="true">
 <price>1200</price>
 <currencyId>UAH</currencyId>
@@ -2396,26 +2422,10 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">1414</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/747/9f9c99c9b52f39e2a280d1ed24d8c461.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/747/580bea54ff871e8863200f888602d164.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/747/3911234df03319da90ebea2535d97979.jpg</picture>
-</offer><offer id="2292" available="true">
-<price>370</price>
-<currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
-<vendor>Yamamay</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Бюстгальтер Yamamay 75В Серый 2292</name>
-<description><![CDATA[Эффектный бюстгальтер для женщин от стильного бренда Yamamay. Серые чашечки с эффектном push up на косточках и спереди украшены узкими полосками и розовой ленточкой. Предусмотрены удобные шлейки с регулировкой и сзади застежка на два крючка, а также сеточка по бокам. ]]></description>
-<param name="Вид">Бюстгальтер Yamamay</param>
-<param name="Размер">75В</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
-<param name="Цвет">Серый</param>
-<param name="Состав">87% нейлон, 13% эластан, 2% полиэстер</param>
-<param name="Артикул">2292</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/637/796d3771d690c69f3b5dce13271d540d.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/637/538cb30edeed91a2d3110181e7665522.jpeg</picture>
 </offer><offer id="1574" available="true">
 <price>180</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Women'secret</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Лиф для купания Women'secret 65В Зеленый 1574</name>
@@ -2423,7 +2433,7 @@
 <param name="Вид">Лиф для купания Women'secret</param>
 <param name="Размер">65В</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Зеленый</param>
 <param name="Состав">85% нейлон, 15% эластан, подкладка - 88% полиэстер, 12% эластан.</param>
 <param name="Артикул">1574</param>
@@ -2431,7 +2441,7 @@
 </offer><offer id="1575" available="true">
 <price>180</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Women'secret</vendor>
 <stock_quantity>2</stock_quantity>
 <name>Лиф для купания Women'secret 65В Зеленый 1575</name>
@@ -2439,7 +2449,7 @@
 <param name="Вид">Лиф для купания Women'secret</param>
 <param name="Размер">65В</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Зеленый</param>
 <param name="Состав">85% нейлон, 15% эластан, подкладка - 88% полиэстер, 12% эластан.</param>
 <param name="Артикул">1575</param>
@@ -2447,7 +2457,7 @@
 </offer><offer id="1584" available="true">
 <price>130</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Women'secret</vendor>
 <stock_quantity>4</stock_quantity>
 <name>Плавки Women'secret М Зеленый 1584</name>
@@ -2455,7 +2465,7 @@
 <param name="Вид">Плавки Women'secret</param>
 <param name="Размер">М</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Зеленый</param>
 <param name="Состав">79% нейлон, 21% эластан, подкладка - 88% полиэстер, 12% эластан.</param>
 <param name="Артикул">1584</param>
@@ -2463,15 +2473,15 @@
 </offer><offer id="1588" available="true">
 <price>130</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Women'secret</vendor>
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <name>Плавки Women'secret S Бежевый 1588</name>
 <description><![CDATA[Стильные плавки от известного производителя Women'Secret. С актуальным звериным принтом.&lt;br /&gt;Имеет боковые складки, которые дополняют фасон.]]></description>
 <param name="Вид">Плавки Women'secret</param>
 <param name="Размер">S</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Бежевый</param>
 <param name="Состав">79% нейлон, 21% эластан, подкладка - 88% полиэстер, 12% эластан.</param>
 <param name="Артикул">1588</param>
@@ -2479,7 +2489,7 @@
 </offer><offer id="1578" available="true">
 <price>150</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Women'secret</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Плавки Women'secret М Голубой 1578</name>
@@ -2487,7 +2497,7 @@
 <param name="Вид">Плавки Women'secret</param>
 <param name="Размер">М</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Голубой</param>
 <param name="Состав">79% нейлон, 21% эластан, подкладка - 88% полиэстер, 12% эластан.</param>
 <param name="Артикул">1578</param>
@@ -2897,7 +2907,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>140</categoryId>
 <vendor>TALLY WEIJL</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <name>Топ TALLY WEIJL ХХS Синий 3023</name>
 <description><![CDATA[Летний топ от TALLY WEIJL из тонкого денима, в состав которого входит 100% хлопковое волокно. Акцентирующей мягкой бахромой, проходящей вдоль круглой горловины, а также по линии проймы и внизу. Асимметричными рельефными швами, дополняющими вырез. Нагрудными вытачками и металлической застёжкой-молнией на спине. По стилю он хорошо подойдет к джинсам, имеющим приталенный покрой.]]></description>
 <param name="Вид">Топ TALLY WEIJL</param>
@@ -3302,22 +3312,6 @@
 <description><![CDATA[Соблазнительный топ фасона бандо с черно-белым принтом, который прикрывает только грудь, открывая все прелести женской фигуры. С эластичной кулиской вдоль верхнего шва, которая фиксирует изделие вместо бретелек, а также вертикальной сборкой по середине.&lt;br /&gt;Такой топ можно скомбинировать с майкой, имеющей заниженную пройму, так образ станет более сдержанным и интересным.]]></description>
 <param name="Вид">Топ TALLY WEIJL</param>
 <param name="Размер">XXS</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
-<param name="Цвет">Черный</param>
-<param name="Состав">95% хлопок, 5% эластан</param>
-<param name="Артикул">3518</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/511/e6dfed8c28a1bc01516a74d11bd8000c.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/511/5862b7ccad0d4291113ad37271f74328.jpeg</picture>
-</offer><offer id="3518" available="true">
-<price>100</price>
-<currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
-<vendor>TALLY WEIJL</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Топ TALLY WEIJL М Черный 3518</name>
-<description><![CDATA[Соблазнительный топ фасона бандо с черно-белым принтом, который прикрывает только грудь, открывая все прелести женской фигуры. С эластичной кулиской вдоль верхнего шва, которая фиксирует изделие вместо бретелек, а также вертикальной сборкой по середине.&lt;br /&gt;Такой топ можно скомбинировать с майкой, имеющей заниженную пройму, так образ станет более сдержанным и интересным.]]></description>
-<param name="Вид">Топ TALLY WEIJL</param>
-<param name="Размер">М</param>
 <param name="Сезон">Всесезон</param>
 <param name="Категория">Женские топы</param>
 <param name="Цвет">Черный</param>
@@ -3804,22 +3798,6 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">2960</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/253/782429284407ce45d016413ca46f4328.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/253/a02f11ba06ff0023b0fdda8dcd4a8538.jpeg</picture>
-</offer><offer id="2915" available="true">
-<price>200</price>
-<currencyId>UAH</currencyId>
-<categoryId>136</categoryId>
-<vendor>TALLY WEIJL</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Юбка TALLY WEIJL ХL Синий 2915</name>
-<description><![CDATA[Повседневная макси юбка от TALLY WEIJL с орнаментом в приятных синих оттенках, которая станет модным акцентом летнего образа. С вертикальными рельефными швами, создающими красивые женские пропорции. Разрезом по одну сторону и эластичной вставкой-резинкой, проходящей в поясе. Она придаст образу нотку легкости и трендовости. К тому же, юбку актуально скомбинировать с соблазнительным топом открывающим линию плеч.]]></description>
-<param name="Вид">Юбка TALLY WEIJL</param>
-<param name="Размер">ХL</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские юбки</param>
-<param name="Цвет">Синий</param>
-<param name="Состав"> 96% вискоза, 4% эластан</param>
-<param name="Артикул">2915</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/253/9d6fa965df0acb5db6edb0f29db3dd9a.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/253/b2ec6b5dbed23b0b749f1ca00a69f91a.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/253/99852c9109ef9367d09d2a6a20f6c0fb.jpeg</picture>
 </offer><offer id="3663" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
@@ -3999,7 +3977,7 @@
 </offer><offer id="1948" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
-<categoryId>27</categoryId>
+<categoryId>154</categoryId>
 <vendor> S.Oliver</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Шорты  S.Oliver 46 Бежевый 1948</name>
@@ -4007,27 +3985,11 @@
 <param name="Вид">Шорты  S.Oliver</param>
 <param name="Размер">46</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Мужские брюки</param>
+<param name="Категория">Мужские шорты</param>
 <param name="Цвет">Бежевый</param>
 <param name="Состав">98% хлопок, 2% эластан</param>
 <param name="Артикул">1948</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/01/524/548d509f4fa3def49a9733db4d04cdc4.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/01/524/3b3615facbc959b162484d0305ab33fb.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/01/524/eaabc9e4bf69c83c01ab3e1fb0f20355.jpeg</picture>
-</offer><offer id="1949" available="true">
-<price>450</price>
-<currencyId>UAH</currencyId>
-<categoryId>27</categoryId>
-<vendor> S.Oliver</vendor>
-<stock_quantity>2</stock_quantity>
-<name>Шорты  S.Oliver 46 Синий 1949</name>
-<description><![CDATA[Стильные шорты для мужчин от модного бренда S.Oliver.&lt;br /&gt;Модель классического, прямого фасона и базовой посадкой. Выполнены из качественного, эластичного денима светлого оттенка.&lt;br /&gt;С креативным эффектом потертости и оригинальным асимметричным швом. Основная застежка на пять металлических пуговиц с гравировкой фирмы.&lt;br /&gt;Предусмотрены шлёвки для ремня, три кармана спереди и два сзади с круглой фурнитурой. Для летнего сезона, повседневного гардероба.]]></description>
-<param name="Вид">Шорты  S.Oliver</param>
-<param name="Размер">46</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Мужские брюки</param>
-<param name="Цвет">Синий</param>
-<param name="Состав">67% хлопок, 32% полиэстер, 1% эластан. </param>
-<param name="Артикул">1949</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/55/4895f6051f3d33b92e61f30670463bbe.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/55/b4d035b65de85f0976b7dc2b1024a5c2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/55/9e3ecb72dc87e94eef52dbae90a1776c.jpeg</picture>
 </offer><offer id="199911" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
@@ -4097,7 +4059,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
 <vendor>S.Oliver</vendor>
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <name>Футболка S.Oliver 46 Белый 1823</name>
 <description><![CDATA[Классическая футболка прямого кроя, консервативного белого цвета, который универсален в сочетании с широкой палитрой оттенков. Лаконичным V-образным вырезом, акцентирующим внимание на линию шеи, а также коротким рукавом. Однотонный фасон уместно разбавить яркими нотками, например, цветными котоновыми брюками.]]></description>
 <param name="Вид">Футболка S.Oliver</param>
@@ -4113,7 +4075,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
 <vendor>S.Oliver</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <name>Футболка S.Oliver 36 Салатовый 18272</name>
 <description><![CDATA[Яркая женская футболка в стиле casual, освежающего салатового цвета. Лаконичного дизайна с коротким рукавом и V-образной горловиной, а также фирменной вышивкой в тон, которая служит декоративным элементом на изделии. Она универсальна и практична в использовании, благодаря трикотажному материалу. Футболку можно сочетать как с эластичными леггинсами, так и с повседневными джинсами.]]></description>
 <param name="Вид">Футболка S.Oliver</param>
@@ -4204,22 +4166,6 @@
 <param name="Состав">100% полиэстера</param>
 <param name="Артикул">17651</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/10/355/8f6ffa978fd3fda6acfd775b98218fb3.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/10/355/ba0fcc83605d2e23741824e8e49f650f.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/10/355/b2ce6af553353f6a0c0910eeb6d241c7.jpeg</picture>
-</offer><offer id="1681" available="true">
-<price>220</price>
-<currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
-<vendor>S.Oliver</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Футболка S.Oliver 46 Белый 1681</name>
-<description><![CDATA[]]></description>
-<param name="Вид">Футболка S.Oliver</param>
-<param name="Размер">46</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские футболки</param>
-<param name="Цвет">Белый</param>
-<param name="Состав">100% хлопок</param>
-<param name="Артикул">1681</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/613/ab7fa583a8d086408d3ebb2047c7f5e0.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/613/8117ab55a8ba7040f56a7b522699bc68.jpeg</picture>
 </offer><offer id="1665" available="true">
 <price>350</price>
 <currencyId>UAH</currencyId>
@@ -4254,6 +4200,38 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">19881</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/8d85afd83e799c76977ded90a827cfd1.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/91aa2d8f72227fe4fe9290f168c2d14f.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/12b1dee26a16bcf10da4371931adc242.jpeg</picture>
+</offer><offer id="71332" available="true">
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>157</categoryId>
+<vendor>Roеckl</vendor>
+<stock_quantity>1</stock_quantity>
+<name>ПерчаткиRoеckl М Красный 71332</name>
+<description><![CDATA[]]></description>
+<param name="Вид">ПерчаткиRoеckl</param>
+<param name="Размер">М</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Перчатки и варежки</param>
+<param name="Цвет">Красный</param>
+<param name="Состав">натуральная кожа</param>
+<param name="Артикул">71332</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/d1afd0d3d13fb6b033f78d3a5646d345.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/8e3774e3c280ee3914b4918694378bdb.jpeg</picture>
+</offer><offer id="1504" available="true">
+<price>300</price>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<vendor>Pieces</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Платок-хомут Pieces ONE SIZE Зеленый 1504</name>
+<description><![CDATA[Яркий платок-хомут от популярного бренда Pieces.&lt;br /&gt;Свободного фасона, из легкого материала. Основной цвет - белый.&lt;br /&gt;С модным изображением птиц, насыщенного салатового цвета.&lt;br /&gt;Стильный аксессуар разбавит любой базовый гардероб современной девушки.&lt;br /&gt;Длина - 77*2 см.&lt;br /&gt;Ширина - 96 см.]]></description>
+<param name="Вид">Платок-хомут Pieces</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Весна, Осень</param>
+<param name="Категория">Шарфы и платки</param>
+<param name="Цвет">Зеленый</param>
+<param name="Состав">100%-полиэстер</param>
+<param name="Артикул">1504</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/62/64e9279e91caa812e17e5f72c273208e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/62/137fac1fd8f2394c684e4346094db677.jpeg</picture>
 </offer><offer id="954" available="true">
 <price>2300</price>
 <currencyId>UAH</currencyId>
@@ -4334,22 +4312,6 @@
 <param name="Состав">Основной состав: 78% полиэстер, 19% вискоза, 3% эластан. Подкладка: 100% полиэстер.</param>
 <param name="Артикул">1346</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/750/81468dea94b0b0c37b3eaa6db0b1789f.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/750/b225903f275ec75cb5126c35c4449a98.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/750/f81c128b384e894d36b588c4ee5173df.jpg</picture>
-</offer><offer id="1160" available="true">
-<price>400</price>
-<currencyId>UAH</currencyId>
-<categoryId>133</categoryId>
-<vendor>Noisy May</vendor>
-<stock_quantity>1</stock_quantity>
-<name> Платье Noisy May S Черный 1160</name>
-<description><![CDATA[Уникальное платье чёрного цвета без рукавов, а также с полупрозрачными вставками, которые подчеркивают декольте, плечи и талию. С металлической застёжкой сзади, дополняющей интересный фасон изделия и акцентирующей внимание на линию спины.&lt;br /&gt;Параметры:&lt;br /&gt;длина  - 90 см&lt;br /&gt;грудь  - 80 см&lt;br /&gt;пояс - 66 см&lt;br /&gt;бедра - 80 см]]></description>
-<param name="Вид"> Платье Noisy May</param>
-<param name="Размер">S</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские платья</param>
-<param name="Цвет">Черный</param>
-<param name="Состав"> 100% полиэстер</param>
-<param name="Артикул">1160</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/528/e5d2eb30e896aa9ba2e0dcc7695fdbe2.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/528/8530a484d3a0940ca654c3a6db66798a.jpeg</picture>
 </offer><offer id="1281" available="true">
 <price>200</price>
 <currencyId>UAH</currencyId>
@@ -4721,7 +4683,7 @@
 </offer><offer id="1478" available="true">
 <price>350</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Minimum</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Парео Minimum 40 Белый 1478</name>
@@ -4729,7 +4691,7 @@
 <param name="Вид">Парео Minimum</param>
 <param name="Размер">40</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Белый</param>
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">1478</param>
@@ -4753,7 +4715,7 @@
 </offer><offer id="16162" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>159</categoryId>
 <vendor>Marie Meili</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Бюстгальтер Marie Meili 75В Черный 16162</name>
@@ -4761,7 +4723,7 @@
 <param name="Вид">Бюстгальтер Marie Meili</param>
 <param name="Размер">75В</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Комплекты белья</param>
 <param name="Цвет">Черный</param>
 <param name="Состав"> 92% полиамид, 8% эластан</param>
 <param name="Артикул">16162</param>
@@ -5011,7 +4973,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>17</categoryId>
 <vendor>Cortefiel</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <name>Рубашка Cortefiel ХХL Белый 16401</name>
 <description><![CDATA[Сдержанная рубашка для мужчин в классическом стиле. Выполнена из мягкого волокна, практичного белого цвета с легким полосатым узором. Рубашка прямого покроя имеет длинный рукав с манжетом и пуговицами, традиционную застежку на лаконичных пуговицах, а также с кокеткой на спине. Предусмотрен отложной воротник с аккуратными краями.]]></description>
 <param name="Вид">Рубашка Cortefiel</param>
@@ -5070,6 +5032,22 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">8001</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/60/ce2d924c7a40efbf9f32e7434c227342.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/60/557993c87649cabb49961210a284db6c.jpeg</picture>
+</offer><offer id="872" available="true">
+<price>300</price>
+<currencyId>UAH</currencyId>
+<categoryId>152</categoryId>
+<vendor>Cortefiel</vendor>
+<stock_quantity>3</stock_quantity>
+<name>Пояс Cortefiel 85 см Синий 872</name>
+<description><![CDATA[Модный аксессуар для женского гардероба от Cortefiel.&lt;br /&gt;Оригинальный пояс повседневного стиля. Выполнен из плотного кожзаменителя.&lt;br /&gt;Стильного синего цвета с имитация змеиной кожи. Внешний материал эффектно переливается на свете.&lt;br /&gt;Предусмотрена прямоугольная пряжка с металлическим штырем. Декорирован блестящей фурнитурой. &lt;br /&gt;Длина ремня - 100 см.&lt;br /&gt;Ширина ремня - 2 см.]]></description>
+<param name="Вид">Пояс Cortefiel</param>
+<param name="Размер">85 см</param>
+<param name="Сезон">Всесезон</param>
+<param name="Категория">Ремни и пояса</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">100%-полиуретан</param>
+<param name="Артикул">872</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/a494f2ef7605ec987029b2f5c467144a.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/e34de07a0b200d794c0d3638debe14fd.jpeg</picture>
 </offer><offer id="531" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
@@ -5086,38 +5064,22 @@
 <param name="Состав">100% хлопок</param>
 <param name="Артикул">531</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/747/05562dd64d543118d2069b6cc71c283a.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/747/cd3488d3f0d406c923cc9804e15141b3.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/747/7883c52fd13dc7f888edee0d26dc9a10.jpeg</picture>
-</offer><offer id="800" available="true">
+</offer><offer id="6911" available="true">
 <price>200</price>
 <currencyId>UAH</currencyId>
-<categoryId>106</categoryId>
+<categoryId>158</categoryId>
 <vendor>Cortefiel</vendor>
 <stock_quantity>1</stock_quantity>
-<name>Блузка Cortefiel S Белый 800</name>
-<description><![CDATA[Модная блузка от оригинального бренда Cortefiel.&lt;br /&gt;Модель прямого фасона из легкой, гладкой ткани. Основного белого цвета.&lt;br /&gt;Декорирована тонкой, ажурной тканью кислотного светло-красного цвета.&lt;br /&gt;Широкие шлейки и круглая горловина. &lt;br /&gt;Для ярких и эффектных девушек, которые предпочитают оригинальный стиль.]]></description>
-<param name="Вид">Блузка Cortefiel</param>
-<param name="Размер">S</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские блузы</param>
-<param name="Цвет">Белый</param>
-<param name="Состав">100% полиэстер</param>
-<param name="Артикул">800</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/60/ce2d924c7a40efbf9f32e7434c227342.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/60/557993c87649cabb49961210a284db6c.jpeg</picture>
-</offer><offer id="7661" available="true">
-<price>650</price>
-<currencyId>UAH</currencyId>
-<categoryId>93</categoryId>
-<vendor>Cortefiel</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Джинсы Cortefiel 38 Черный 7661</name>
-<description><![CDATA[Универсальные женские джинсы от популярного бренда Cortefiel. Изделие для повседневного назначения и любого сезона. &lt;br /&gt;Джинсы Slim Fit прямого силуэта и нормальной посадкой. Использована стрейчевая ткань черного цвета.&lt;br /&gt;Удобная модель с декоративной фурнитурой и узорной строчкой. Три передних прорезных и два задних кармана.&lt;br /&gt;Предусмотрена потайная застежка-молния и металлическая пуговица с блестящим покрытием. Дополнительные шлёвки для пояса.]]></description>
-<param name="Вид">Джинсы Cortefiel</param>
-<param name="Размер">38</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские джинсы</param>
-<param name="Цвет">Черный</param>
-<param name="Состав">80% хлопок, 12% полиэстер, 2% эластан.</param>
-<param name="Артикул">7661</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/cf2b4c76e6ebbc3d1f13bc1267d45c1e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/1a412f3a6e47a2f9e3da1c4a60dc5082.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/12/644/487044c984447fd9f19cd296420ab28c.jpeg</picture>
+<name>Шарф Cortefiel ONE SIZE Зеленый 6911</name>
+<description><![CDATA[Тонкий длинный шарф с оригинальный принтом, имеющий комбинированное цветовое решение с преобладающим зеленым оттенком. Изделие отделано нитяной бахромой по бокам, которая служит дополнительным декором. Благодаря мягкой ткани, он отлично драпируется и создает красивую фактуру. А также шарф можно скомбинировать с деревянными украшением на руку в виде браслета с больших бусин.&lt;br /&gt;Состав: 58% вискоза, 42% хлопок.&lt;br /&gt;Длина - 185 см.&lt;br /&gt;Ширина - 57 см.]]></description>
+<param name="Вид">Шарф Cortefiel</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Осень, Весна</param>
+<param name="Категория">Шарфы и платки</param>
+<param name="Цвет">Зеленый</param>
+<param name="Состав">58%-вискоза, 42%-хлопок</param>
+<param name="Артикул">6911</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/126dd4f368f022e13cdfd6bfe97296ea.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/426/4965ec5ce563e17fe98fc2218b9899e4.jpeg</picture>
 </offer><offer id="1673" available="true">
 <price>320</price>
 <currencyId>UAH</currencyId>
@@ -5262,22 +5224,6 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">271</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/447/a928aa71145cf1b8b3fc094e19578e01.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/447/471f587a55c587391d1cb7df55c13f7c.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/447/00bd376fcecaec0e49dde69cf9a08867.jpeg</picture>
-</offer><offer id="296" available="true">
-<price>450</price>
-<currencyId>UAH</currencyId>
-<categoryId>122</categoryId>
-<vendor>Carla Ruiz</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Болеро  Carla Ruiz М Салатовый 296</name>
-<description><![CDATA[Стильное, нарядное болеро для торжественных мероприятий от Carla Ruiz.&lt;br /&gt;Выготовлено из плотной, текстурной ткани. Насыщенного салатового цвета. Декорировано узорной, мелкой сеточкой.&lt;br /&gt;С подкладкой и короткими, полукруглыми рукавами. Упругий воротничок. &lt;br /&gt;Для красочного летнего и весеннего гардероба. ]]></description>
-<param name="Вид">Болеро  Carla Ruiz</param>
-<param name="Размер">М</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские жакеты</param>
-<param name="Цвет">Салатовый</param>
-<param name="Состав">100% полиэстер</param>
-<param name="Артикул">296</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/447/2fcace9848819840a3c1cd56041bbbd9.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/447/d4cf925dbf90023e6716b108e0622195.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/447/cfcc29b85408c4a69e7fa820738f81de.jpeg</picture>
 </offer><offer id="313" available="true">
 <price>350</price>
 <currencyId>UAH</currencyId>
@@ -5310,22 +5256,6 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">326</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/03428db56dc7f1f2bf461ee6d073ea39.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/9ad64f90cadc39f1a79f4c02cd288de6.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/ee8e894e458455086b1a4cab7aef747c.jpeg</picture>
-</offer><offer id="448" available="true">
-<price>450</price>
-<currencyId>UAH</currencyId>
-<categoryId>133</categoryId>
-<vendor>Carla Ruiz</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Платье Carla Ruiz 38 Синий 448</name>
-<description><![CDATA[&lt;br /&gt;длина  - 86 см&lt;br /&gt;грудная клетка - 84 см&lt;br /&gt;пояс - 70 см]]></description>
-<param name="Вид">Платье Carla Ruiz</param>
-<param name="Размер">38</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские платья</param>
-<param name="Цвет">Синий</param>
-<param name="Состав">100% полиэстер</param>
-<param name="Артикул">448</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/530/0d45df76ae9e092f742183edc5290306.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/530/e27555e5290641f9a44a128c43a48acd.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/530/886863f827889a80c46fbceab74871a5.jpeg</picture>
 </offer><offer id="457" available="true">
 <price>600</price>
 <currencyId>UAH</currencyId>
@@ -5406,22 +5336,6 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">522</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/529/d3fd7ec6ec29ef2e294868e7edf27e39.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/02/529/dea1dfcab5a492d2c9bbbc1b3fc9f1d6.jpeg</picture>
-</offer><offer id="4661" available="true">
-<price>650</price>
-<currencyId>UAH</currencyId>
-<categoryId>133</categoryId>
-<vendor>Carla Ruiz</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Платье Carla Ruiz М Бежевый 4661</name>
-<description><![CDATA[]]></description>
-<param name="Вид">Платье Carla Ruiz</param>
-<param name="Размер">М</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские платья</param>
-<param name="Цвет">Бежевый</param>
-<param name="Состав">100% полиэстер</param>
-<param name="Артикул">4661</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/135/45b9594c1013573229b6a2691b3b8b7e.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/08/135/d28e47bd67e35babcde9bed5b79ba91a.jpg</picture>
 </offer><offer id="2631" available="true">
 <price>600</price>
 <currencyId>UAH</currencyId>
@@ -5635,7 +5549,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>140</categoryId>
 <vendor>Bershka</vendor>
-<stock_quantity>17</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <name>Топ Bershka XS Черный 2097</name>
 <description><![CDATA[Оригинальный женский топ от торговой марки Bershka, однотонного чёрного цвета, который выполнен из ажурного материала. Фасон на тонких бретельках, а также с лаконичными рукавчиками кроя реглан, создающими необычный дизайн. Скругленной формой низа и поперечной трикотажной подкладкой.]]></description>
 <param name="Вид">Топ Bershka</param>
@@ -5651,7 +5565,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>140</categoryId>
 <vendor>Bershka</vendor>
-<stock_quantity>23</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <name>Топ Bershka XS Розовый 2096</name>
 <description><![CDATA[Летний топ от Bershka вкусного малинового цвета, который подойдет для яркого женского образа. Изделие имеет крой реглан и овальную горловину, а также заниженную скругленную спинку и отвороты. Его можно сочетать с шортами или рваными потертыми джинсами, дополнять стильной обувью и аксессуарами. ]]></description>
 <param name="Вид">Топ Bershka</param>
@@ -5939,7 +5853,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>133</categoryId>
 <vendor>Arggido</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <name>Платье Arggido М Фиолетовый 412</name>
 <description><![CDATA[Оригинальный воротник "Питер Пэн", лаконичная застёжка-капельна сзади, длинный рукав с широким манжетом на обтянутых пуговицах, отделка из фигурной тесьмы.&lt;br /&gt;Параметры:&lt;br /&gt;длина  - 87 см&lt;br /&gt;грудная клетка - 90 см&lt;br /&gt;пояс - 86 см.]]></description>
 <param name="Вид">Платье Arggido</param>
@@ -6414,22 +6328,6 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">3691</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/613/37ccf4598cca518196000f3f40d5ba45.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/613/d2e2240657699fcf1872d3884e38d7ac.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/613/41f8e1ed5675e3d6c67b86ea62fd3866.jpeg</picture>
-</offer><offer id="348" available="true">
-<price>450</price>
-<currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
-<vendor>Arggido</vendor>
-<stock_quantity>1</stock_quantity>
-<name>Топ Arggido M/L Синий 348</name>
-<description><![CDATA[Стильный топ прямого кроя, который универсально подойдет к широкому ассортименту одежды для повседневного образа. С акцентирующим геометрическим принтом, делающим его очень интересным и модным. Имеет овальный вырез, переходящий в рукав-реглан с длинной 3/4, а также в отлетные детали на полочке. С полупрозрачным материалом на спине, добавляющим необычность и оригинальность фасону.]]></description>
-<param name="Вид">Топ Arggido</param>
-<param name="Размер">M/L</param>
-<param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
-<param name="Цвет">Синий</param>
-<param name="Состав">Основной материал: 80% хлопок, 20% эластан; вставка: 100% полиэстер</param>
-<param name="Артикул">348</param>
-<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/656/9a4053a0f815345e3bcdd3a1f47333be.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/b08f194e7fa26cf2fd88cd7071777a22.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/657/fac092faf955e557a07190154340cca9.jpeg</picture>
 </offer><offer id="356" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
@@ -6478,6 +6376,22 @@
 <param name="Состав">100% полиэстер; 75% полиэстер, 25% хлопок.</param>
 <param name="Артикул">1371</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/01/527/5a55f8c91c47734cdd1cbc1ac8b733a6.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/01/527/0b119f9278cf97291943fc216a7bab0f.jpg</picture>
+</offer><offer id="1609" available="true">
+<price>200</price>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<vendor>Anna Field</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Шарф Anna Field ONE SIZE Синий 1609</name>
+<description><![CDATA[Лаконичность и оригинальность: женский шарф от торговой марки Anna Field грязно-бирюзового цвета, который дополнит повседневный модный лук. Благодаря длинной модели, можно создавать интересные образы, а также полупрозрачная ткань, хорошо драпируется и создает мягкие складочки.]]></description>
+<param name="Вид">Шарф Anna Field</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Весна, Осень</param>
+<param name="Категория">Шарфы и платки</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">100%-полиэстер</param>
+<param name="Артикул">1609</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/60/cffaa951090af945336a7572eb70eddd.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/60/5d8505055446413f30c65683a44d7ed3.jpeg</picture>
 </offer><offer id="1264" available="true">
 <price>150</price>
 <currencyId>UAH</currencyId>
@@ -6494,6 +6408,38 @@
 <param name="Состав">100% полиэстер</param>
 <param name="Артикул">1264</param>
 <picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/748/a76b750f7baab87f92af7f7997c075bd.jpg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/11/748/053270eec9ac4827a3485dc345eba32f.jpg</picture>
+</offer><offer id="371" available="true">
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<vendor>Anna Field</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Платок Anna Field ONE SIZE Зеленый 371</name>
+<description><![CDATA[]]></description>
+<param name="Вид">Платок Anna Field</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Осень, Весна</param>
+<param name="Категория">Шарфы и платки</param>
+<param name="Цвет">Зеленый</param>
+<param name="Состав">100%-полиэстер</param>
+<param name="Артикул">371</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/333/d0c51c2b4d29d990b02ef4161ba12b0e.jpeg</picture><picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2018/11/333/d28b833530ef3d73fddc286844d9aae8.jpeg</picture>
+</offer><offer id="1607" available="true">
+<price>150</price>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<vendor>Anna Field</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Платок-хомут Anna Field ONE SIZE Черный 1607</name>
+<description><![CDATA[Стильная модель платка для ярких личностей от Anna Field.&lt;br /&gt;Платок-хомут представлен в классическом черном цвете. С контрастным белым принтом - цветочный рисунок крестов.&lt;br /&gt;Изделие из легкой ткани, она приятная к телу. Для весеннего и осеннего гардероба.&lt;br /&gt;Модная модель обворожительно смотрится с кожаными куртками и классическими плащами.&lt;br /&gt;Длина - 90*2 см.&lt;br /&gt;Ширина - 108 см.]]></description>
+<param name="Вид">Платок-хомут Anna Field</param>
+<param name="Размер">ONE SIZE</param>
+<param name="Сезон">Весна, Осень</param>
+<param name="Категория">Шарфы и платки</param>
+<param name="Цвет">Черный</param>
+<param name="Состав">100%-полиэстер</param>
+<param name="Артикул">1607</param>
+<picture>https://kasta.ua/imgw/loc/0x0/uploads/product_image/2017/12/655/6d121da69b5ebcd78565a60af58482bf.jpeg</picture>
 </offer><offer id="1303" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
@@ -6513,7 +6459,7 @@
 </offer><offer id="6412" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Airidaco</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник Airidaco 44 Желтый 6412</name>
@@ -6521,7 +6467,7 @@
 <param name="Вид">Купальник Airidaco</param>
 <param name="Размер">44</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Желтый</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6412</param>
@@ -6529,7 +6475,7 @@
 </offer><offer id="6405" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Airidaco</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник Airidaco 40 Фиолетовый 6405</name>
@@ -6537,7 +6483,7 @@
 <param name="Вид">Купальник Airidaco</param>
 <param name="Размер">40</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Фиолетовый</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6405</param>
@@ -6545,7 +6491,7 @@
 </offer><offer id="6411" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Airidaco</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник Airidaco 46 Зеленый 6411</name>
@@ -6553,7 +6499,7 @@
 <param name="Вид">Купальник Airidaco</param>
 <param name="Размер">46</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Зеленый</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6411</param>
@@ -6561,7 +6507,7 @@
 </offer><offer id="6410" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Airidaco</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник Airidaco 46 Зеленый 6410</name>
@@ -6569,7 +6515,7 @@
 <param name="Вид">Купальник Airidaco</param>
 <param name="Размер">46</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Зеленый</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6410</param>
@@ -6577,7 +6523,7 @@
 </offer><offer id="6408" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Airidaco</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник Airidaco 46 Желтый 6408</name>
@@ -6585,7 +6531,7 @@
 <param name="Вид">Купальник Airidaco</param>
 <param name="Размер">46</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Желтый</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6408</param>
@@ -6593,7 +6539,7 @@
 </offer><offer id="6406" available="true">
 <price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>156</categoryId>
 <vendor>Airidaco</vendor>
 <stock_quantity>1</stock_quantity>
 <name>Купальник Airidaco 44 Фиолетовый 6406</name>
@@ -6601,7 +6547,7 @@
 <param name="Вид">Купальник Airidaco</param>
 <param name="Размер">44</param>
 <param name="Сезон">Всесезон</param>
-<param name="Категория">Женские топы</param>
+<param name="Категория">Купальники</param>
 <param name="Цвет">Фиолетовый</param>
 <param name="Состав">80% полиамид, 20% эластан</param>
 <param name="Артикул">6406</param>
